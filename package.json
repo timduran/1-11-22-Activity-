@@ -1,0 +1,29 @@
+{
+  "name": "1-11-22-activity-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timduran/1-11-22-Activity-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timduran/1-11-22-Activity-/issues"
+  },
+  "homepage": "https://github.com/timduran/1-11-22-Activity-#readme",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.1.0"
+  }
+}
